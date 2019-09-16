@@ -1,0 +1,14 @@
+Important Links:
+- https://towardsdatascience.com/workflow-of-a-machine-learning-project-ec1dba419b94
+- https://medium.com/machinevision/overview-of-neural-networks-b86ce02ea3d1
+- https://towardsdatascience.com/knn-k-nearest-neighbors-1-a4707b24bd1d
+- https://medium.com/machinelearningalgorithms/k-nearest-neighbors-c9823dca611b
+- https://medium.com/datadriveninvestor/neural-network-fundamentals-1956a3000c24
+
+Video Links:
+- https://youtu.be/PPLop4L2eGk?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+- https://youtu.be/bQI5uDxrFfA?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+- https://youtu.be/jAA2g9ItoAc?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+- https://youtu.be/H9_f1f0v_zQ
+- https://youtu.be/9eGO_8B05Ik
+- https://youtu.be/lhHddKHP8Qg
